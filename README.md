@@ -5,6 +5,8 @@
 
 |ORIGINAL_IMAGE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DECONV_TO_D2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ORIGINAL_ISNET|
 |------------|
+![model_performance_comparison](https://github.com/user-attachments/assets/865b44c2-5efe-4183-a51e-d351111fd970)
+
 |![models_performance_comparision](![model_performance_comparison](https://github.com/user-attachments/assets/4f3f8e58-5735-410f-8fca-5aa6148083e1))
 
 # References
